@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/my-css/main.css">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  
+    <title>Вакум цонхны шилдэг үйлдвэр</title>
+  
+
+	
+	
+	
+	</head>
+  <body>
+
+
+     <nav class="navbar navbar-expand-lg my-navbar-light">
+          <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse my-arrow" id="navbarSupportedContent">
+
+               <ul class="navbar-nav my-top-navbar mr-auto mt-2 mt-lg-0">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="#"><i class="fa fa-user-friends"></i>&nbsp;&nbsp;Хэрэглэгчийн булан</a>                                     
+                  </li>                 
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="icon-user m-auto" data-bs-hover-animate="pulse"> </i>Түншлэл</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="icon-user m-auto" data-bs-hover-animate="pulse"> </i>Хамтран ажиллах санал</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="icon-user m-auto" data-bs-hover-animate="pulse"> </i>Гарын авлага</a>
+                  </li>
+                   <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fab fa-facebook fa-2x"> </i></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fab fa-twitter fa-2x"> </i></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fab fa-youtube fa-2x"> </i></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><i class="fab fa-google-plus fa-2x"> </i></a>
+                  </li>
+                                  
+               </ul>
+             
+               <ul class="navbar-nav ml-auto">
+
+                  
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Монгол
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                          <a class="dropdown-item" href="#">Монгол</a>
+                          <a class="dropdown-item" href="#">English</a>                          
+                        </div>
+                      </li>            
+               </ul>
+              </div>
+          </div>          
+        </nav>
+        
+
+        <nav class="navbar my-mid-navbar navbar-expand-md navbar-light bg-white">
+            <div class="container">
+                  
+                  <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="#">
+                    <img src="assets/img/logo/logo.png" width="100" class="d-inline-block align-top" alt="">
+                        
+                      </a>
+                     <div class="navbar-brand my-navbar-brand">
+                        <h3>Star Window</h3>
+                        <p class="lead">ВАКУМ ЦОНХНЫ ҮЙЛДВЭР</p>
+                     </div>
+                                    
+                    
+                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                          <li class="nav-item active">
+                            <h3><i class="fas fa-phone"></i>&nbsp; &nbsp;70120306</h3>
+                            <p>Бид таньд үйлчлэхдээ таатай байх болно.</p>
+                          </li>
+                          <li class="nav-item active">
+                            <button type="button" class="btn btn-outline-info btn-lg">
+                              <i class="fas fa-ruler-combined"></i>&nbsp; Тооцоолол</button>
+                          </li>
+                          <li class="nav-item active">
+                            <button type="button" class="btn btn-outline-info btn-lg">
+                              <i class="fas fa-shipping-fast"></i>&nbsp;Захиалага&nbsp;</button>
+                          </li>
+                                              
+                         
+                        </ul>                        
+                    </div>
+            </div>
+          
+        </nav>
+        <hr class="hr-class">
+     
+        <nav class="navbar my-main-navbar navbar-expand-lg navbar-light bg-white">
+
+          <div class="container">         
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto text-muted">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="#">Эхлэл <span class="sr-only">(current)</span></a>
+                  </li>
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Бүтээгдэхүүн
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <div class="mega-row row justify-content-around">
+
+              <!-- FIRST COLUMN -->
+              <div class="col-xs-3 text-muted">
+                <div class="mega-col-wrapper">
+                  <h6 class="text-muted">Вакум цонх</h6>
+                  <ul class="mega-submenu">
+                    <li><a href="#">Энгийн цонх</a></li>
+                    <li><a href="#">Хамгаалалттай цонх</a></li>
+                    <li><a href="#">Чимээ шуугиан хамгаалах цонх</a></li>
+                    <li><a href="#">Эрчим хүчний хэмнэлттэй цонх</a></li>
+                    <li><a href="#">Цэцэрлэгийн цонх</a></li>
+                    <li><a href="#">Нарны хамгаалалттай цонх</a></li>
+                    
+                  </ul>
+                </div> <!-- mega-col-wrapper -->
+              </div> <!-- col -->
+
+              <!-- SECOND COLUMN -->
+              <div class="col-xs-3">
+                <div class="mega-col-wrapper">
+                  <h5 class="text-muted">Шилэн пасад</h5>
+                  <ul class="mega-submenu">
+                    <li><a href="#">Хүлэмжний пасад</a></li>
+                    <li><a href="#">Барилгын шилэн пасад</a></li>                    
+                  </ul>
+                </div> <!-- mega-col-wrapper -->
+              </div> <!-- col -->
+
+              <!-- THIRD COLUMN -->
+              <div class="col-xs-3">
+                <div class="mega-col-wrapper">
+                  <h5 class="text-muted">Хуванцар хаалга</h5>
+                  <ul class="mega-submenu">
+                    <li><a href="#">Оффисын хаалт</a></li>
+                    <li><a href="#">Тагтны хаалт</a></li>
+                   
+                   </ul>
+                </div> <!-- mega-col-wrapper -->
+              </div>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Сонголт хийхэд тань туслах уу?</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Тооцоолуур</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Зөвлөгөө</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Мэдээлэл</a>
+                  </li>
+                  
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Холбоо барих</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Бидний тухай</a>
+                  </li>
+                 
+                </ul>
+                
+                </div>
+
+                </div>
+              </nav>
+
+              <section class="container-fluid section-1 px-5">          
+                                
+                  
+
+
+              </section>
+	
+
+              <section class="section-2 my-5">
+                <div class="container">                 
+                
+                 <div class="row justify-content-start">
+                    <div>
+                       <h5 class="display-4">Цонхны талаар</h5>
+                       <p class="lead">зөвлөгөө тусламж</p>
+                    </div>
+                 </div>
+
+                 <div class="row justify-content-center text-left mt-4 mb-5">
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/desk.jpg" class="card-img-top">
+                       <div class="card-body">
+                           <h4 class="card-title">Responsive</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/windowrain.jpg" class="card-img-top" height="auto">
+                       <div class="card-body">
+                           <h4 class="card-title">Flex Wrap</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/apartment.jpg" class="card-img-top">
+                       <div class="card-body">
+                           <h4 class="card-title">Turbo</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+           </div>
+
+           <div class="row justify-content-center text-left mt-5">
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/desk.jpg" class="card-img-top">
+                       <div class="card-body">
+                           <h4 class="card-title">Responsive</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/windowrain.jpg" class="card-img-top" height="auto">
+                       <div class="card-body">
+                           <h4 class="card-title">Flex Wrap</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-md-4">
+                   <div class="card">
+                       <img src="assets/img/card/apartment.jpg" class="card-img-top">
+                       <div class="card-body">
+                           <h4 class="card-title">Turbo</h4>
+                           <p class="card-text text-muted">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum</p>
+                           <button class="btn btn-outline-info">Цааш үзэх...</button>
+                       </div>
+                   </div>
+               </div>
+           </div>
+                 </div>
+              </section>
+
+                
+
+
+    
+ 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    
+    <script>
+      
+      $(function(){
+        $("nav.my-navbar-light ul li").click(function(){
+            $("nav.my-navbar-light ul li").removeClass("active");
+            $(this).addClass("active");
+          
+          
+        });
+      });
+
+      
+    </script>
+  </body>
+</html>

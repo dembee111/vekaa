@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Lobster|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+.my-nav{
+	background-color: #083c77;
+}
+.my-hover:hover{
+   border-bottom: 3px solid #29acc0;
+}
+
+.my-arrow{
+	font-size: 14px;
+}
+
+.my-cover-text{
+	text-shadow: 2px 2px 8px blue;
+}
+.my-justify{
+	text-align: justify;
+}
+
+
+.my-call-to-action{
+	height: 800px;
+}
+
+.my-row{
+	background-color: green;
+}
+
+.my-navbar-light li a{
+	color: #0071b3;
+}
+.nav-link{
+	margin-right: 8px;
+	margin-left: 8px;
+}
+
+.nav-link .fab{
+	font-size: 18px;
+}
+
+
+
+/* .my-arrow ul li.active a{
+	background-color: #4caf50;
+
+	color: white;
+
+	transform: skew(-20deg);
+}*/
+
+/*.nav-item:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    background: #e9f6fd;
+    pointer-events: none;
+    -webkit-transform: skew(-35deg);
+    -ms-transform: skew(-35deg);
+    transform: skew(-35deg);
+    transition: 200ms ease-out;
+}*/
+:root{
+	--main-color: linear-gradient(90deg, #6e40aa, #6154c8, #4c6edb, #368ce1, #24aad8, #1ac7c2);
+}
+.my-top-navbar > .active{
+			background-color: #e6f6fc;
+			position: relative;
+			transform: skew(-20deg);
+		}
+.my-primary{
+    background-image: var(--main-color);
+}
+nav.navbar .my-top-navbar li.nav-item.active a.nav-link{
+	color: #0071b3;
+	transition: all 0.75s;
+	transform: skew(20deg);
+	
+	}
+
+	.my-navbar-brand {
+		line-height: 1px;
+		margin-right: 60px;
+		
+	}
+	.my-navbar-brand h3{
+		font-family: 'Lobster', cursive;
+		color: #29acc0;
+	}
+
+	.my-navbar-brand p{
+		font-family: 'Roboto', sans-serif;
+		font-size: 16px;
+		color: #29acc0;
+		
+	}
+
+.my-mid-navbar ul{
+	color: #29acc0;
+     line-height: 1px;
+     font-size: 14px;
+}
+.my-mid-navbar ul li{
+	margin-right: 20px;
+}
+.my-mid-navbar ul li button{
+	border-radius: 0 !important;
+}
+hr.hr-class{
+
+	background-color: #fff;
+	border-top: 2px solid #dcdcdc;
+
+}
+
+
+.mega-row {
+  width: 60rem;
+
+}
+
+.mega-col-wrapper {
+  padding: 10px;
+}
+
+ul.mega-submenu {
+  line-height: 45px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+ul.mega-submenu li a{
+	text-decoration: none;
+}
+.my-main-navbar{
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 1rem;
+
+}
+
+.section-2 .card{
+	border: none !important;
+	border-radius: 0 !important;
+
+
+	
+}
+/*.section-2 .card button{
+	display: none;
+
+	
+}*/
+/*.section-2 .card:hover button{
+	display: block;
+	opacity: 1 !important;
+	border-radius: 0 !important;
+	
+}*/
+.section-2 .card:hover{
+	opacity: 0.8;
+	transition: 0.5s ease;
+	
+}
+
+.section-2 .card img{
+	
+	border-radius: 0 !important;
+	
+}
+
+.section-2 .card-title{
+	
+	color: #0071b3;
+}
+
+.display-4{
+	color: #0071b3;
+}
+.section-2 .text-left .row{
+    height:500px;
+}
+
+.section-3 h6, .section-4 h6{
+	font-size: 34px;
+	background: var(--main-color);
+	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+
+.section-4 h5{
+	background: var(--main-color);
+	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.section-5{
+	background: var(--main-color);
+	height: 100%;
+}
+
+.section-5 .icon-title{
+     color: #0074b8;
+    
+     
+}
+
+.section-5 .icon-title > svg{
+	
+	padding-right: 15px;
+	padding-bottom: 0;
+	float: left;
+	width: 50px;
+	height: 52px;
+	fill: white;
+}
+
+.section-5 .icon-title > span{
+	color: white;
+	font-size: 26px;
+}
+.section-5 hr{
+	background-color: white;
+}
+
+.section-5 p{
+	color: white;
+	
+}
+
+
+
+	
+	
+
+
